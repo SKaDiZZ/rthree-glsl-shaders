@@ -1,3 +1,7 @@
+## GLSL Shaders - playground
+
+Simple study of GLSL shaders, ThreeJS.
+
 ## SDF
 
 Signed distance function
